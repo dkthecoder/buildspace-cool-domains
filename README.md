@@ -1,4 +1,6 @@
-# Sample Hardhat Project
+# buildspace cool domains project
+
+based on the following tutorial here: https://buildspace.so/builds/polygon-ens
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
