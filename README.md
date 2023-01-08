@@ -4,7 +4,7 @@ based on the following tutorial here: https://buildspace.so/builds/polygon-ens
 
 hardhat.config.js (usualy located in the root of the directory has been removed)
 
-Polygon Scan link: https://mumbai.polygonscan.com/address/0x030E1D2e498827566A519C8d9DB5259270Ad7203
+Polygon Scan link: https://mumbai.polygonscan.com/address/0x5FbDB2315678afecb367f032d93F642f64180aa3
 
 OpenSea: https://testnets.opensea.io/collection/strawberry-name-service
 
